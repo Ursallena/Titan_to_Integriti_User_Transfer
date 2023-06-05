@@ -1,2 +1,3 @@
-# data files
-test.rtf
+# Ignore testing & local files
+input.rtf
+output.csv

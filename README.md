@@ -8,7 +8,9 @@ Python script to transfer users from titan to integriti.
 # How to use script
 1. Have user export file named as "input.rtf" in the same folder as the script
 2. Run 
-'Titan_To_Integriti.py'
+
+`Titan_To_Integriti.py`
+
 3. "output.csv" will be generated
 
 # How to export users from Titan:

@@ -5,6 +5,9 @@ Python script to transfer users from titan to integriti.
  - Assumes all cards are all the same type (Both data type and site code, Titan doesn't store what card is what)
  - Titan doesn't export user pins, script will append "HAD PIN" if they previously had a pin, and an alarm group that wasn't group 1.
 
+# Requirements
+ - <a href="https://pypi.org/project/striprtf/">Strip RTF</a> (Used version 0.0.25 with inital testing)
+
 # How to use script
 1. Have user export file named as "input.rtf" in the same folder as the script
 2. Run 
